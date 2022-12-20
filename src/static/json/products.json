@@ -1,0 +1,46 @@
+{
+  "data": {
+    "products": [
+     
+      {
+        "availableSizes": ["XL"],
+        "currencyFormat": "TND",
+        "currencyId": "TND",
+        "description": "",
+        "id": 8,
+        "installments": 4,
+        "isFreeShipping": false,
+        "price": 18.7,
+        "sku": 5619496040738316,
+        "style": "Girl the future is all your",
+        "title": "White T-shirt Gucci"
+      },
+      {
+        "availableSizes": ["L", "XL"],
+        "currencyFormat": "TND",
+        "currencyId": "TND",
+        "description": "",
+        "id": 9,
+        "installments": 5,
+        "isFreeShipping": false,
+        "price": 134.9,
+        "sku": 11600983276356164,
+        "style": "",
+        "title": "Tropical Wine T-shirt"
+      },
+      {
+        "availableSizes": ["L", "XL"],
+        "currencyFormat": "TND",
+        "currencyId": "TND",
+        "description": "",
+        "id": 10,
+        "installments": 0,
+        "isFreeShipping": false,
+        "price": 49,
+        "sku": 27250082398145996,
+        "style": "",
+        "title": "Marine Blue T-shirt"
+      }
+    ]
+  }
+}
